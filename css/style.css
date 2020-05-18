@@ -600,7 +600,7 @@ h6 {
   -ms-transform: translateZ(0);
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
-  background: transparent none repeat scroll 0 0;
+  background: linear-gradient(90deg, rgba(1,172,198,1) 0%, rgba(40,107,164,1) 73%, rgba(68,64,142,1) 100%);
   -webkit-box-shadow: 0 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px rgba(0, 0, 0, 0.1);
   box-shadow: 0 1px rgba(0, 0, 0, 0.1); }
